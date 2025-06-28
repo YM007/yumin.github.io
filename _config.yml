@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "俞敏"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "A worker with strong executive ability"
+  location         : "Beijing Changping"
+  employer         : "数据通信科学技术研究所"
+  uri              : "https://ym007.github.io/yumin.github.io/"
+  email            : "yumin00747@gmail.com" 
 
   # Academic websites
   academia         : # URL
