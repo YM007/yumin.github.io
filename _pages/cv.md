@@ -18,13 +18,25 @@ Work experience
 ======
 * PKI5(公钥技术设施)
   * 独立完成第五代PKI5业务场景梳理、C接口设计、代码开发、线上支撑
+  * 线上支撑全国各地PKI5部署开通
 
 * AS(身份认证系统)
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+ 
+* CIS(密码服务中间件)
+  * 独立完成密码服务中间件核心密码设备适配层接口设计、开发
+  * 独立完成对数据所、中国电子科技集团公司第三十研究所、北京电子科技学院新一代311服务器密码设备适配
+  * 独立完成对数据所、中国电子科技集团公司第三十研究所、北京电子科技学院新一代311 Key终端设备适配
+  * scsd
 
-* Summer 2015: Research Assistant
+* 电子公文
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+ 
+* 电子签章/印章
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
