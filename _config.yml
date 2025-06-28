@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "chinese"
 site_theme               : "default"
 title                    : "personal description"
 title_separator          : "-"
