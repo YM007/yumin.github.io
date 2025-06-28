@@ -11,18 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in 北京, 电信科学技术研究院, 2016.9-2019.3
+* B.S. in 安徽, 安徽工业大学, 2011.9-2015.7
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* PKI5(公钥技术设施)
+  * 独立完成第五代PKI5业务场景梳理、C接口设计、代码开发、线上支撑
 
-* Fall 2015: Research Assistant
+* AS(身份认证系统)
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
