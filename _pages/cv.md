@@ -47,12 +47,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 熟练掌握C语言编程
+  * 熟练掌握CMake编译工具及CMakeList文件使用
+  * 熟练掌握Conan包管理机制及使用
+  * 熟练掌握CI/CD敏捷开发
+* 熟练掌握Shell脚本语言
+* 熟练掌握Docker容器机制
+  * 容器开发环境搭建
+  * 应用容器化部署 
+* 熟练掌握网络I/O编程
+  * 熟练掌握Send、Recv、select、eqoll收发机制
+  * 熟练掌握多进程/多线程网络编程
+  * 熟练掌握信号量机制与编程
 
 Publications
 ======
