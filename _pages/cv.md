@@ -44,40 +44,28 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+ 
+* 开源项目
   
 Skills
 ======
 * 熟练掌握C语言编程
   * 熟练掌握CMake编译工具及CMakeList文件使用
   * 熟练掌握Conan包管理机制及使用
+  * 熟练掌握交叉编译原理及应用
   * 熟练掌握CI/CD敏捷开发
 * 熟练掌握Shell脚本语言
 * 熟练掌握Docker容器机制
-  * 容器开发环境搭建
-  * 应用容器化部署 
+  * 熟练掌握容器开发环境搭建
+  * 熟练掌握应用容器化部署 
 * 熟练掌握网络I/O编程
   * 熟练掌握Send、Recv、select、eqoll收发机制
   * 熟练掌握多进程/多线程网络编程
   * 熟练掌握信号量机制与编程
+  * 熟练掌握Socket5代理协议
+* 熟练掌握X509证书结构及开发应用
 
-Publications
+Certificate
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 英语六级
+* 
