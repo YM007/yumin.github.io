@@ -80,4 +80,5 @@ Certificate
 Interest
 ======
 * 读书
+* 看剧
 * 游泳
