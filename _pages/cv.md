@@ -31,21 +31,15 @@ Work experience
   * 线上支撑全国各地AS部署开通，协助用户内网认证系统升级换代
 
 * EDS(电子公文系统)
-  * 独立完成电子公文客户端模块设计、C接口设计、代码开发与维护
+  * 独立完成电子公文系统需求讨论、公文客户端模块化设计、C接口设计、代码开发与维护
   * 独立完成客户端对终端USB密码设备、新一代311服务器密码设备适配
   * 线上支撑浙江、安徽、河南、福建等省市内网电子公文建设、部署与开通
- 
-* 装备管理系统
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* 电子签章/印章
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  
+* GCS(政务云系统)
+  * 独立完成政务云应用、云策略两款密码设备的需求讨论、C接口设计、代码开发与调试
  
 * 开源项目
+  * 独立完成iconv编码转换库在mips472嵌入式板子上的移植
   
 Skills
 ======
@@ -67,10 +61,13 @@ Skills
   * 熟练掌握多进程/多线程网络编程
   * 熟练掌握信号量机制与编程
   * 熟练掌握Socket5代理协议
+* 熟练掌握MQ消息队列机制及开发应用
 * 熟练掌握X509证书结构及开发应用
 * 熟练掌握密码学相关知识
   * 熟练掌握签名、验签、密钥协商等密码学原理及应用
   * 熟练掌握密码接口定义与封装经验
+* 熟练掌握rpm包、deb包机制及制作
+* 熟练掌握Inno Setup工具使用及exe安装包制作
 
 Certificate
 ======
