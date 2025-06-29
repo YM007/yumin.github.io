@@ -58,10 +58,10 @@ Skills
 * 熟练掌握git及TortoiseGit使用
 * 熟练掌握C语言Debug技巧
   * 熟练掌握GDB单步调试
-  * 熟练掌握Google开源Sanitizer工具集合调试C程序内存泄漏、缓冲区溢出、地址越界等问题
+  * 熟练掌握Google开源Sanitizer工具集调试C程序内存泄漏、缓冲区溢出、地址越界等问题
 * 熟练掌握Docker容器机制
   * 熟练掌握容器开发环境搭建
-  * 熟练掌握应用容器化部署 
+  * 熟练掌握docker-compose应用容器化部署 
 * 熟练掌握网络I/O编程
   * 熟练掌握Send、Recv、select、eqoll收发机制
   * 熟练掌握多进程/多线程网络编程
@@ -73,3 +73,8 @@ Certificate
 ======
 * 英语六级
 * 中国信科专业技术职务任职资格
+
+Interest
+======
+* 读书
+* 游泳
